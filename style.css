@@ -1,0 +1,40 @@
+body {
+    background-image:url(Gate.jpeg);
+    background-blend-mode: difference;
+    
+}
+#website{
+    text-align: left;
+    font-size: 30px;
+}
+#E-CELL{
+    text-align:left;
+    font-size: 30px;
+}
+
+a:hover{
+    color: rgb(17, 194, 225);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font:bold;
+    font-style: italic;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    text-decoration: underline;
+}
+#para1{
+    text-align:center;
+    color: rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+    font-size:35px;
+    
+}
+#para2 ,#para3,#para4,#para5 {
+    text-align:center;
+    text-decoration:solid;
+    color: rgb(252, 246, 246);
+    font-weight: 300S;
+}
